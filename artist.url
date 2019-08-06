@@ -1,0 +1,6 @@
+
+# Format
+# @twitter/pixiv/url [priority, default 8]
+# Example:
+# @fkfk_oftn 9
+# @ponkan 8
